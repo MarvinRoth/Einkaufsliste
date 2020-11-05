@@ -6,3 +6,5 @@ Ich bin ***2006*** in die Schule gekommen und bin `2010 auf eine Realschule Gewe
 >2016 bin ich Nach Rottweil aufs EHG Gewechselt.
 
 # Seit 2019 Studiere ich nun an der HFU
+
+![Ein Sehr altes Bild lmao](C:\Users\marv0\OneDrive\Bilder "Ich als ich 13 war")
