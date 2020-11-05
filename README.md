@@ -7,4 +7,4 @@ Ich bin ***2006*** in die Schule gekommen und bin `2010 auf eine Realschule Gewe
 
 # Seit 2019 Studiere ich nun an der HFU
 
-![Ein Sehr altes Bild lmao](C:\Users\marv0\OneDrive\Bilder "Ich als ich 13 war")
+![Ein Sehr altes Bild lmao]( https://github.com/MarvinRoth/Einkaufsliste/blob/lokal/Passbild.jpg?raw=true "Ich als ich 13 war")
